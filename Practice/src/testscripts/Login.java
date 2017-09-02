@@ -37,6 +37,7 @@ public class Login
 		  driver.manage().window().maximize();
 		  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS); 
 		  driver.get("http://automationpractice.com/index.php");
+		  System.out.println("GitHub testing");
 	  }
 	  
 	  
