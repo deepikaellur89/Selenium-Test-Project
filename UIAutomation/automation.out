@@ -1,0 +1,21 @@
+Starting -- TC001_VerifyLoginWithInvalidCredentials -- test
+Clicked on signIn and object is : [[ChromeDriver: chrome on XP (4a7d88c59ab787672bb9640057e2cf22)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Entered user test@gmail.comand object is : [[ChromeDriver: chrome on XP (4a7d88c59ab787672bb9640057e2cf22)] -> id: email]
+Entered password password123 and object is : [[ChromeDriver: chrome on XP (4a7d88c59ab787672bb9640057e2cf22)] -> id: passwd]
+Clicked Submit and object is : [[ChromeDriver: chrome on XP (4a7d88c59ab787672bb9640057e2cf22)] -> id: SubmitLogin]
+Error message is : Authentication failed.
+Ending -- TC001_VerifyLoginWithInvalidCredentials -- test
+Starting -- TC001_VerifyLoginWithInvalidCredentials -- test
+Clicked on Sign in and object is:- [[ChromeDriver: chrome on XP (0cbf6c7e3e17c563a1429e5fdb62e483)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Entered email adress :-test@gmail.comand object is:- [[ChromeDriver: chrome on XP (0cbf6c7e3e17c563a1429e5fdb62e483)] -> xpath: .//*[@id='email']]
+browser closed
+browser closed
+Starting -- TC001_VerifyLoginWithInvalidCredentials -- test
+Clicked on Sign in and object is:- [[ChromeDriver: chrome on XP (48f95fd85dbf9b5d1a318ae536402380)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Entered email adress :-test@gmail.comand object is:- [[ChromeDriver: chrome on XP (48f95fd85dbf9b5d1a318ae536402380)] -> xpath: .//*[@id='email']]
+Entered password :-password123and object is:- [[ChromeDriver: chrome on XP (48f95fd85dbf9b5d1a318ae536402380)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit button and object is :-[[ChromeDriver: chrome on XP (48f95fd85dbf9b5d1a318ae536402380)] -> xpath: .//*[@id='SubmitLogin']]
+Error message is :-Authentication failed.
+Ending -- TC001_VerifyLoginWithInvalidCredentials -- test
+browser closed
+browser closed
